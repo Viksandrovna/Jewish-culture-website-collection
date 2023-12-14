@@ -59,6 +59,7 @@
 *По оценке сервиса Archive.Ready архивируемость сайта - 75%*
 
 |Accessibility| 	46%|
+|---------|----------|
 |Cohesion| 	      92%|
 |Metadata| 	     100%|
 |Standards Compliance| 	62%|
