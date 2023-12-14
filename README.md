@@ -155,13 +155,11 @@ image/gif                    |        10|    1092531|  0.0338591|
 
 #*Сервис Archive Ready оценивает архивируемость сайта в 68%*
 
-|---------|----------|
-|Accessibility         | 57%|
-|Cohesion              | 62%|
-|Metadata              | 75%|
-|Standards Compliance | 77% |
--------------------------------
-
+| Accessibility | 57% |
+| Cohesion       | 62% |
+| Metadata       | 75% |
+| Standards Compliance     | 77% |
+|---------------|-----|
 
 **Сайты собрала и заархивировала:** Виктория Герасимова
 
