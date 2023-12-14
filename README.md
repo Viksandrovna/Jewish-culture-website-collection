@@ -29,6 +29,7 @@
 #*Сервис Archive Ready оценивает архивируемость сайта в 72%*
 
 |Web Archivability Facet| 	Rating|
+|-----------------------|---------|
 |Accessibility| 	50%|
 |Cohesion| 	97%|
 |Metadata| 	67%|
