@@ -61,7 +61,8 @@
 
 *По оценке сервиса Archive.Ready архивируемость сайта - 75%*
 
-|-------------|------|
+|Web Archivability Facet| 	Rating|
+|-----------------------|---------|
 |Accessibility| 	46%|
 |Cohesion| 	      92%|
 |Metadata| 	     100%|
@@ -87,7 +88,8 @@
 
 #*По оценке сервиса Archive.Ready архивируемость сайта - 86%*
 
-|---------|----------|
+|Web Archivability Facet| 	Rating|
+|-----------------------|---------|
 |Accessibility| 	55%|
 |Cohesion| 	100%|
 |Metadata| 	100%|
@@ -122,7 +124,8 @@ image/gif                    |        10|    1092531|  0.0338591|
 
 #*По оценке сервиса Archive.Ready архивируемость сайта - 80%*
 
-|---------|----------|
+|Web Archivability Facet| 	Rating|
+|-----------------------|---------|
 |Accessibility| 	38%|
 |Cohesion| 	88%|
 |Metadata| 	100%|
@@ -157,11 +160,12 @@ image/gif                    |        10|    1092531|  0.0338591|
 
 #*Сервис Archive Ready оценивает архивируемость сайта в 68%*
 
-| Accessibility | 57% |
+|Web Archivability Facet| 	Rating|
+|-----------------------|---------|
+|Accessibility | 57% |
 | Cohesion       | 62% |
 | Metadata       | 75% |
 | Standards Compliance     | 77% |
-|---------------|-----|
 
 **Сайты собрала и заархивировала:** Виктория Герасимова
 
